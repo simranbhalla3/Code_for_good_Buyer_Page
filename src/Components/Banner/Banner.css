@@ -4,7 +4,7 @@
 
 .bannerParentDiv .bannerChildDiv .menuBar {
   display: flex;
-  padding: 10px 16px 10px 16px;
+  padding: 30px 16px 15px 16px;
 }
 
 
@@ -21,6 +21,7 @@
 
 .bannerChildDiv .banner {
   position: relative;
+  
   width: 100vw;
 }
 .bannerChildDiv .banner img{

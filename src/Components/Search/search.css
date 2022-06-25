@@ -18,10 +18,10 @@
     height: 60px;
     width: 250px;
     display: flex; */
-   
+   margin-top:5px;
     width: 30em;
-  height: 48px;
-  border: 2px solid #002f34;
+  height: 40px;
+  border: 1px solid #002f34;
   border-radius: 4px;
   display: flex;
   align-items: center;
